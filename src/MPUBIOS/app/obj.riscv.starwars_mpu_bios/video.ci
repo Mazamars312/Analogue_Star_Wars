@@ -1,0 +1,44 @@
+graph: { title: "video.cpp"
+node: { title: "video.cpp:drawline.part.0" label: "0(int, int, int, int)\nvideo.cpp:76:6" }
+node: { title: "riscprintf_" label: ")\n/mnt/f/Analogue/Analogue_Star_Wars/src/MPUBIOS/arch/riscv/riscprintf.h:71:5" shape : ellipse }
+edge: { sourcename: "video.cpp:drawline.part.0" targetname: "riscprintf_" label: "video.cpp:79:13" }
+node: { title: "clearpixel" label: "void clearpixel()\nvideo.cpp:40:6" }
+node: { title: "set_color" label: "void set_color(int8_t)\nvideo.cpp:49:6" }
+node: { title: "_Z8putpixelii" label: "void putpixel(int, int)\nvideo.cpp:62:6" }
+node: { title: "drawline" label: "void drawline(int, int, int, int)\nvideo.cpp:76:6" }
+edge: { sourcename: "drawline" targetname: "video.cpp:drawline.part.0" }
+node: { title: "_Z4vggov" label: "void vggo()\nvideo.cpp:150:6" }
+node: { title: "_Z5vgrstv" label: "void vgrst()\nvideo.cpp:156:6" }
+node: { title: "_Z3OP0v" label: "uint8_t OP0()\nvideo.cpp:166:9" }
+node: { title: "_Z3OP1v" label: "uint8_t OP1()\nvideo.cpp:167:9" }
+node: { title: "_Z3OP2v" label: "uint8_t OP2()\nvideo.cpp:168:9" }
+node: { title: "_Z3OP3v" label: "uint8_t OP3()\nvideo.cpp:169:9" }
+node: { title: "_Z3ST3v" label: "uint8_t ST3()\nvideo.cpp:170:9" }
+node: { title: "_Z9handler_0v" label: "int handler_0()\nvideo.cpp:172:5" }
+node: { title: "_Z9handler_1v" label: "int handler_1()\nvideo.cpp:180:5" }
+node: { title: "_Z9handler_2v" label: "int handler_2()\nvideo.cpp:193:5" }
+node: { title: "_Z9handler_3v" label: "int handler_3()\nvideo.cpp:201:5" }
+node: { title: "_Z9handler_4v" label: "int handler_4()\nvideo.cpp:213:5" }
+node: { title: "_Z18avg_common_strobe1v" label: "int avg_common_strobe1()\nvideo.cpp:250:5" }
+node: { title: "_Z9handler_5v" label: "int handler_5()\nvideo.cpp:262:5" }
+edge: { sourcename: "_Z9handler_5v" targetname: "_Z18avg_common_strobe1v" label: "video.cpp:274:27" }
+node: { title: "_Z18avg_common_strobe2v" label: "int avg_common_strobe2()\nvideo.cpp:278:5" }
+node: { title: "_Z14update_databusv" label: "void update_databus()\nvideo.cpp:327:6" }
+node: { title: "_Z18avg_common_strobe3v" label: "int avg_common_strobe3()\nvideo.cpp:332:5" }
+edge: { sourcename: "_Z18avg_common_strobe3v" targetname: "riscprintf_" label: "video.cpp:339:13" }
+edge: { sourcename: "_Z18avg_common_strobe3v" targetname: "video.cpp:drawline.part.0" }
+node: { title: "_Z9handler_6v" label: "int handler_6()\nvideo.cpp:364:5" }
+node: { title: "_Z9handler_7v" label: "int handler_7()\nvideo.cpp:385:5" }
+edge: { sourcename: "_Z9handler_7v" targetname: "_Z18avg_common_strobe3v" label: "video.cpp:387:39" }
+edge: { sourcename: "_Z9handler_7v" targetname: "video.cpp:drawline.part.0" }
+node: { title: "vg_set_halt" label: "void vg_set_halt(int)\nvideo.cpp:398:6" }
+node: { title: "_Z10state_addrv" label: "uint8_t state_addr()\nvideo.cpp:422:9" }
+node: { title: "video_start" label: "void video_start()\nvideo.cpp:429:6" }
+edge: { sourcename: "video_start" targetname: "_Z9handler_1v" label: "video.cpp:448:32" }
+edge: { sourcename: "video_start" targetname: "_Z9handler_4v" label: "video.cpp:451:32" }
+edge: { sourcename: "video_start" targetname: "_Z9handler_5v" label: "video.cpp:452:32" }
+edge: { sourcename: "video_start" targetname: "_Z9handler_6v" label: "video.cpp:453:32" }
+edge: { sourcename: "video_start" targetname: "_Z9handler_7v" label: "video.cpp:454:32" }
+edge: { sourcename: "video_start" targetname: "riscprintf_" label: "video.cpp:457:13" }
+edge: { sourcename: "video_start" targetname: "riscprintf_" label: "video.cpp:491:14" }
+}

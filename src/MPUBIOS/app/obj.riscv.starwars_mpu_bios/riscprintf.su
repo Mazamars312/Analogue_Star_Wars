@@ -1,0 +1,5 @@
+/mnt/f/Analogue/Analogue_Star_Wars/src/MPUBIOS/arch/riscv/riscprintf.cpp:93:20:void _out_null(char, void*, size_t, size_t)	0	static
+/mnt/f/Analogue/Analogue_Star_Wars/src/MPUBIOS/arch/riscv/riscprintf.cpp:100:20:void _out_char(char, void*, size_t, size_t)	0	static
+/mnt/f/Analogue/Analogue_Star_Wars/src/MPUBIOS/arch/riscv/riscprintf.cpp:232:15:size_t _ntoa_long(out_fct_type, char*, size_t, size_t, long unsigned int, bool, long unsigned int, unsigned int, unsigned int, unsigned int)	80	static
+/mnt/f/Analogue/Analogue_Star_Wars/src/MPUBIOS/arch/riscv/riscprintf.cpp:813:5:)	144	static
+/mnt/f/Analogue/Analogue_Star_Wars/src/MPUBIOS/arch/riscv/riscprintf.cpp:825:5:)	32	static

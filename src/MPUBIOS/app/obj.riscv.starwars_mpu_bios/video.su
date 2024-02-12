@@ -1,0 +1,27 @@
+video.cpp:76:6:0(int, int, int, int)	32	static
+video.cpp:40:6:void clearpixel()	0	static
+video.cpp:49:6:void set_color(int8_t)	0	static
+video.cpp:62:6:void putpixel(int, int)	0	static
+video.cpp:76:6:void drawline(int, int, int, int)	0	static
+video.cpp:150:6:void vggo()	0	static
+video.cpp:156:6:void vgrst()	0	static
+video.cpp:166:9:uint8_t OP0()	0	static
+video.cpp:167:9:uint8_t OP1()	0	static
+video.cpp:168:9:uint8_t OP2()	0	static
+video.cpp:169:9:uint8_t OP3()	0	static
+video.cpp:170:9:uint8_t ST3()	0	static
+video.cpp:172:5:int handler_0()	0	static
+video.cpp:180:5:int handler_1()	0	static
+video.cpp:193:5:int handler_2()	0	static
+video.cpp:201:5:int handler_3()	0	static
+video.cpp:213:5:int handler_4()	16	static
+video.cpp:250:5:int avg_common_strobe1()	0	static
+video.cpp:262:5:int handler_5()	0	static
+video.cpp:278:5:int avg_common_strobe2()	0	static
+video.cpp:327:6:void update_databus()	0	static
+video.cpp:332:5:int avg_common_strobe3()	32	static
+video.cpp:364:5:int handler_6()	0	static
+video.cpp:385:5:int handler_7()	16	static
+video.cpp:398:6:void vg_set_halt(int)	0	static
+video.cpp:422:9:uint8_t state_addr()	0	static
+video.cpp:429:6:void video_start()	48	static

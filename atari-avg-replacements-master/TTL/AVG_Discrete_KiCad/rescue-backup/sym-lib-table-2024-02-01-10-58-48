@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "AVG_Discrete_KiCad-rescue")(type "Legacy")(uri "${KIPRJMOD}/AVG_Discrete_KiCad-rescue.lib")(options "")(descr ""))
+  (lib (name "AVG_Discrete")(type "Legacy")(uri "${KIPRJMOD}/AVG_Discrete.lib")(options "")(descr ""))
+)

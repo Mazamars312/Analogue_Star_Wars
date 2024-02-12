@@ -1,0 +1,19 @@
+{
+    "data": {
+        "magic": "APF_VER_1",
+        "data_slots": [
+		{
+			"name": "MPU Bios",
+			"id": "200",
+			"required": true,
+			"parameters": 2,
+			"filename": "starwars_mpu_bios.bin",
+			"extensions": [
+			"bin"
+			],
+			"address": "0x00000000"
+		}
+		
+		]
+    }
+}

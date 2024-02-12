@@ -1,0 +1,152 @@
+{
+    "interact": {
+        "magic": "APF_VER_1",
+        "variables": [
+		{
+			"name": "op0",
+			"id": 105,
+			"type": "slider_u32",
+			"enabled": true,
+			"persist": true,
+			"defaultval": "0",
+			"address": "0xA0000014",
+			"mask": "0xFFFFFF00",
+			"graphical": {
+				"signed": false,
+				"min": 0,
+				"max": 255,
+				"adjust_small": 1,
+				"adjust_large": 10
+			}
+		},
+		{
+			"name": "op1",
+			"id": 106,
+			"type": "slider_u32",
+			"enabled": true,
+			"persist": true,
+			"defaultval": "0",
+			"address": "0xA0000018",
+			"mask": "0xFFFFFF00",
+			"graphical": {
+				"signed": false,
+				"min": 0,
+				"max": 255,
+				"adjust_small": 1,
+				"adjust_large": 10
+			}
+		},
+		{
+			"name": "DIAGN",
+			"id": 107,
+			"type": "check",
+			"enabled": true,
+			"address": "0xA000001C",
+			"defaultval": 0,
+			"value": 1,
+			"value_off" : 0,
+			"mask": "0xFFFFFFFE"
+		},
+		{
+			"name": "RIGHT_THUMB",
+			"id": 108,
+			"type": "check",
+			"enabled": true,
+			"address": "0xA000001C",
+			"defaultval": 0,
+			"value": 2,
+			"value_off" : 0,
+			"mask": "0xFFFFFFFD"
+		},
+		{
+			"name": "LEFT_THUMB",
+			"id": 109,
+			"type": "check",
+			"enabled": true,
+			"address": "0xA000001C",
+			"defaultval": 0,
+			"value": 4,
+			"value_off" : 0,
+			"mask": "0xFFFFFFFB"
+		},
+		{
+			"name": "COIN_R",
+			"id": 110,
+			"type": "check",
+			"enabled": true,
+			"address": "0xA000001C",
+			"defaultval": 0,
+			"value": 8,
+			"value_off" : 0,
+			"mask": "0xFFFFFFF7"
+		},
+		{
+			"name": "COIN_L",
+			"id": 111,
+			"type": "check",
+			"enabled": true,
+			"address": "0xA000001C",
+			"defaultval": 0,
+			"value": 16,
+			"value_off" : 0,
+			"mask": "0xFFFFFFEF"
+		},
+		{
+			"name": "COIN_AUX",
+			"id": 112,
+			"type": "check",
+			"enabled": true,
+			"address": "0xA000001C",
+			"defaultval": 0,
+			"value": 32,
+			"value_off" : 0,
+			"mask": "0xFFFFFFDF"
+		},
+		{
+			"name": "SLAM",
+			"id": 113,
+			"type": "check",
+			"enabled": true,
+			"address": "0xA000001C",
+			"defaultval": 0,
+			"value": 64,
+			"value_off" : 0,
+			"mask": "0xFFFFFFBF"
+		},
+		{
+			"name": "SELFTEST",
+			"id": 114,
+			"type": "check",
+			"enabled": true,
+			"address": "0xA000001C",
+			"defaultval": 0,
+			"value": 128,
+			"value_off" : 0,
+			"mask": "0xFFFFFF7F"
+		},
+		{
+			"name": "RIGHT_F_S",
+			"id": 115,
+			"type": "check",
+			"enabled": true,
+			"address": "0xA000001C",
+			"defaultval": 0,
+			"value": 256,
+			"value_off" : 0,
+			"mask": "0xFFFFFEFF"
+		},
+		{
+			"name": "LEFT_F_S",
+			"id": 116,
+			"type": "check",
+			"enabled": true,
+			"address": "0xA000001C",
+			"defaultval": 0,
+			"value": 512,
+			"value_off" : 0,
+			"mask": "0xFFFFFDFF"
+		}
+		],
+        "messages": []
+    }
+}

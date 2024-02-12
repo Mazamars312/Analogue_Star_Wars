@@ -1,0 +1,1800 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid fead07ab-5a70-40db-ada8-c72dcc827bfc)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 64.77 77.47) (size 43.18 43.815) (fields_autoplaced)
+    (stroke (width 0) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 00000000-0000-0000-0000-00005cdf67eb)
+    (property "Sheet name" "Vector_Sheet_1" (id 0) (at 64.77 76.6314 0)
+      (effects (font (size 1.524 1.524)) (justify left bottom))
+    )
+    (property "Sheet file" "Vector_Sheet_1.kicad_sch" (id 1) (at 64.77 121.9712 0)
+      (effects (font (size 1.524 1.524)) (justify left top))
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+    (path "/00000000-0000-0000-0000-00005cdf67eb" (page "2"))
+  )
+
+  (symbol_instances
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d3251ea"
+      (reference "#PWR06") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d326554"
+      (reference "#PWR07") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d329c37"
+      (reference "#PWR08") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d32c829"
+      (reference "#PWR09") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d331f55"
+      (reference "#PWR010") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d332c4d"
+      (reference "#PWR011") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d333a8f"
+      (reference "#PWR012") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d334df9"
+      (reference "#PWR013") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d335d85"
+      (reference "#PWR014") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d336d11"
+      (reference "#PWR015") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d337c03"
+      (reference "#PWR016") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d3388fd"
+      (reference "#PWR017") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d33a94f"
+      (reference "#PWR018") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d33abf7"
+      (reference "#PWR019") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d33d7e5"
+      (reference "#PWR020") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d33e8bb"
+      (reference "#PWR021") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d33f31f"
+      (reference "#PWR022") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d340bb3"
+      (reference "#PWR023") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d342447"
+      (reference "#PWR024") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d343141"
+      (reference "#PWR025") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d351bf7"
+      (reference "#PWR026") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d351e9f"
+      (reference "#PWR027") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d352147"
+      (reference "#PWR028") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d3534b5"
+      (reference "#PWR029") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d3538a7"
+      (reference "#PWR030") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d354457"
+      (reference "#PWR031") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d355151"
+      (reference "#PWR032") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d357105"
+      (reference "#PWR033") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d358325"
+      (reference "#PWR034") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d3593ff"
+      (reference "#PWR035") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d3596a7"
+      (reference "#PWR036") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d35a10d"
+      (reference "#PWR037") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d35ae07"
+      (reference "#PWR038") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d35b86d"
+      (reference "#PWR039") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d35c567"
+      (reference "#PWR040") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d35d115"
+      (reference "#PWR041") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d35d507"
+      (reference "#PWR042") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d36664d"
+      (reference "#PWR043") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d36748f"
+      (reference "#PWR044") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d368a8d"
+      (reference "#PWR045") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d368d35"
+      (reference "#PWR046") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d368fdd"
+      (reference "#PWR047") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d369285"
+      (reference "#PWR048") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d369e33"
+      (reference "#PWR049") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d36ab2b"
+      (reference "#PWR050") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d370a2b"
+      (reference "#PWR051") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d370cd3"
+      (reference "#PWR052") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d3736f3"
+      (reference "#PWR053") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d376a04"
+      (reference "#PWR054") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d377851"
+      (reference "#PWR055") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d39d6ee"
+      (reference "#PWR056") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d39dc2a"
+      (reference "#PWR057") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d39ded2"
+      (reference "#PWR058") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d39e7ec"
+      (reference "#PWR059") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d39f250"
+      (reference "#PWR060") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d39f4f8"
+      (reference "#PWR061") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d3a00a6"
+      (reference "#PWR062") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d3a034e"
+      (reference "#PWR063") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d3a1052"
+      (reference "#PWR064") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d3a12fa"
+      (reference "#PWR065") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d3a15a2"
+      (reference "#PWR066") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d3a184a"
+      (reference "#PWR067") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d3b9faf"
+      (reference "#PWR068") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d3bb085"
+      (reference "#PWR069") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d3bca61"
+      (reference "#PWR070") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d3bd8a3"
+      (reference "#PWR071") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d3d69a6"
+      (reference "#PWR072") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d3d7554"
+      (reference "#PWR073") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d3d8df0"
+      (reference "#PWR074") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d3da2ae"
+      (reference "#PWR075") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d3efb26"
+      (reference "#PWR076") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d3efdce"
+      (reference "#PWR077") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d3f0ea5"
+      (reference "#PWR078") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d3f1ba0"
+      (reference "#PWR079") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d3f2c79"
+      (reference "#PWR080") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d3f427a"
+      (reference "#PWR081") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d3f535c"
+      (reference "#PWR082") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d3fa224"
+      (reference "#PWR083") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d3fa760"
+      (reference "#PWR084") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d3fb6ec"
+      (reference "#PWR085") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d3fc3e4"
+      (reference "#PWR086") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d3fce48"
+      (reference "#PWR087") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d3fd8ac"
+      (reference "#PWR088") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d3fdb54"
+      (reference "#PWR089") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d3fe84c"
+      (reference "#PWR090") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d40d895"
+      (reference "#PWR091") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d40e590"
+      (reference "#PWR092") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d40f28b"
+      (reference "#PWR093") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d410364"
+      (reference "#PWR094") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d41226b"
+      (reference "#PWR095") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d412f66"
+      (reference "#PWR096") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d413ef5"
+      (reference "#PWR097") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d414437"
+      (reference "#PWR098") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4146df"
+      (reference "#PWR099") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d415900"
+      (reference "#PWR0100") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d415cf3"
+      (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d416c8b"
+      (reference "#PWR0102") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d416f33"
+      (reference "#PWR0103") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d417326"
+      (reference "#PWR0104") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d417c41"
+      (reference "#PWR0105") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d41ab83"
+      (reference "#PWR0106") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d41b209"
+      (reference "#PWR0107") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d41c197"
+      (reference "#PWR0108") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d41dcbf"
+      (reference "#PWR0109") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4201a1"
+      (reference "#PWR0110") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d420449"
+      (reference "#PWR0111") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d420ead"
+      (reference "#PWR0112") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d421155"
+      (reference "#PWR0113") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4213fd"
+      (reference "#PWR0114") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d424146"
+      (reference "#PWR0115") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4243ee"
+      (reference "#PWR0116") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d424696"
+      (reference "#PWR0117") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d42665b"
+      (reference "#PWR0118") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d426a4d"
+      (reference "#PWR0119") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d427891"
+      (reference "#PWR0120") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d427b39"
+      (reference "#PWR0121") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d428454"
+      (reference "#PWR0122") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d42914d"
+      (reference "#PWR0123") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d42d284"
+      (reference "#PWR0124") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d42d90a"
+      (reference "#PWR0125") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d42e36e"
+      (reference "#PWR0126") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d42e760"
+      (reference "#PWR0127") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d42f30e"
+      (reference "#PWR0128") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d42f994"
+      (reference "#PWR0129") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d430a6a"
+      (reference "#PWR0130") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d431762"
+      (reference "#PWR0131") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d432c19"
+      (reference "#PWR0132") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d43300e"
+      (reference "#PWR0133") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d433d09"
+      (reference "#PWR0134") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d434770"
+      (reference "#PWR0135") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d435321"
+      (reference "#PWR0136") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d435d88"
+      (reference "#PWR0137") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d43bd03"
+      (reference "#PWR0138") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d43cc9c"
+      (reference "#PWR0139") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d449909"
+      (reference "#PWR0140") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d449cfc"
+      (reference "#PWR0141") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d44c509"
+      (reference "#PWR0142") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d44ed15"
+      (reference "#PWR0143") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d44fded"
+      (reference "#PWR0144") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d453571"
+      (reference "#PWR0145") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d470d20"
+      (reference "#PWR0146") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d471a1b"
+      (reference "#PWR0147") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4729b4"
+      (reference "#PWR0148") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d473fbf"
+      (reference "#PWR0149") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d474792"
+      (reference "#PWR0150") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d475343"
+      (reference "#PWR0151") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4b524c"
+      (reference "#PWR0152") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4b6af1"
+      (reference "#PWR0153") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4b77ed"
+      (reference "#PWR0154") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4b7a95"
+      (reference "#PWR0155") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4b7e88"
+      (reference "#PWR0156") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4b9352"
+      (reference "#PWR0157") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4b9745"
+      (reference "#PWR0158") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4ba1ac"
+      (reference "#PWR0159") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4ba5a1"
+      (reference "#PWR0160") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4ba994"
+      (reference "#PWR0161") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4bb01b"
+      (reference "#PWR0162") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4bb936"
+      (reference "#PWR0163") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4bc39d"
+      (reference "#PWR0164") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4bd0a2"
+      (reference "#PWR0165") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4be2cd"
+      (reference "#PWR0166") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4bfcaa"
+      (reference "#PWR0167") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4c009f"
+      (reference "#PWR0168") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4c0494"
+      (reference "#PWR0169") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4c1421"
+      (reference "#PWR0170") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4c1814"
+      (reference "#PWR0171") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4c23cf"
+      (reference "#PWR0172") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4c290e"
+      (reference "#PWR0173") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4c2d01"
+      (reference "#PWR0174") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4c9440"
+      (reference "#PWR0175") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4c9833"
+      (reference "#PWR0176") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4cb93a"
+      (reference "#PWR0177") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4cbd2f"
+      (reference "#PWR0178") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4cc122"
+      (reference "#PWR0179") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4cc7ab"
+      (reference "#PWR0180") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4cd0c6"
+      (reference "#PWR0181") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4cd8a1"
+      (reference "#PWR0182") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4cdc96"
+      (reference "#PWR0183") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4ce467"
+      (reference "#PWR0184") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4cf2b4"
+      (reference "#PWR0185") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4cfbcf"
+      (reference "#PWR0186") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4d0256"
+      (reference "#PWR0187") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4d0649"
+      (reference "#PWR0188") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4d0e1a"
+      (reference "#PWR0189") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4dcbad"
+      (reference "#PWR0190") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4dcfa0"
+      (reference "#PWR0191") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4dd77b"
+      (reference "#PWR0192") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4ddf56"
+      (reference "#PWR0193") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4e9f7c"
+      (reference "#PWR0194") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4ee004"
+      (reference "#PWR0195") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4eef90"
+      (reference "#PWR0196") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4ef8aa"
+      (reference "#PWR0197") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4f2fdc"
+      (reference "#PWR0198") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d503005"
+      (reference "#PWR0199") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d5033f7"
+      (reference "#PWR0200") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d504821"
+      (reference "#PWR0201") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d504c16"
+      (reference "#PWR0202") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d505eea"
+      (reference "#PWR0203") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d5062df"
+      (reference "#PWR0204") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d506d54"
+      (reference "#PWR0205") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d509922"
+      (reference "#PWR0206") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d50a771"
+      (reference "#PWR0207") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d511da8"
+      (reference "#PWR0208") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d51257b"
+      (reference "#PWR0209") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d512c04"
+      (reference "#PWR0210") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d513a49"
+      (reference "#PWR0211") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d514d1e"
+      (reference "#PWR0212") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d515113"
+      (reference "#PWR0213") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d515cc4"
+      (reference "#PWR0214") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d5160b7"
+      (reference "#PWR0215") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d5164ac"
+      (reference "#PWR0216") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d5168a1"
+      (reference "#PWR0217") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d516c94"
+      (reference "#PWR0218") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d517087"
+      (reference "#PWR0219") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d517aee"
+      (reference "#PWR0220") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d517ee1"
+      (reference "#PWR0221") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d518946"
+      (reference "#PWR0222") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d5194f5"
+      (reference "#PWR0223") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d526b08"
+      (reference "#PWR0224") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d527422"
+      (reference "#PWR0225") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d52811a"
+      (reference "#PWR0226") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d528e12"
+      (reference "#PWR0227") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d529b0c"
+      (reference "#PWR0228") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d52ad2c"
+      (reference "#PWR0229") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d53f359"
+      (reference "#PWR0230") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d53fc76"
+      (reference "#PWR0231") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d540fe2"
+      (reference "#PWR0232") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d54fa8a"
+      (reference "#PWR0233") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d5567f9"
+      (reference "#PWR0234") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d5574f4"
+      (reference "#PWR0235") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d55d661"
+      (reference "#PWR0236") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d55e0c6"
+      (reference "#PWR0237") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d55e4b9"
+      (reference "#PWR0238") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d5802b2"
+      (reference "#PWR0239") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d5810f5"
+      (reference "#PWR0240") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d584306"
+      (reference "#PWR0241") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d584e19"
+      (reference "#PWR0242") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d586618"
+      (reference "#PWR0243") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d586a0d"
+      (reference "#PWR0244") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d58aacf"
+      (reference "#PWR0245") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d58aec4"
+      (reference "#PWR0246") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d595594"
+      (reference "#PWR0247") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d595989"
+      (reference "#PWR0248") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d596eea"
+      (reference "#PWR0249") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d5ac245"
+      (reference "#PWR0250") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d5ad1e0"
+      (reference "#PWR0251") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d5af525"
+      (reference "#PWR0252") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d5b0374"
+      (reference "#PWR0253") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-0000616937c6"
+      (reference "#PWR0254") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00006c74765b"
+      (reference "#PWR0255") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ffa3a98"
+      (reference "#PWR0256") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-000060a598be"
+      (reference "#PWR0257") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-000060b7f56d"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d544a7d"
+      (reference "+5V1") (unit 1) (value "TP") (footprint "Star_Wars_Vector_PCB:TEST_POINT")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d5447a2"
+      (reference "+5V2") (unit 1) (value "TP") (footprint "Star_Wars_Vector_PCB:TEST_POINT")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce36c3a"
+      (reference "+12V1") (unit 1) (value "TP") (footprint "Star_Wars_Vector_PCB:TEST_POINT")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce2e3e0"
+      (reference "+15V1") (unit 1) (value "TP1") (footprint "Star_Wars_Vector_PCB:TEST_POINT")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce30df5"
+      (reference "-15V1") (unit 1) (value "TP") (footprint "Star_Wars_Vector_PCB:TEST_POINT")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d129224"
+      (reference "6MHZ1") (unit 1) (value "TP") (footprint "Star_Wars_Vector_PCB:TEST_POINT")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00006310cc04"
+      (reference "12MHZ1") (unit 1) (value "TP") (footprint "Star_Wars_Vector_PCB:TEST_POINT")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4ffe7d"
+      (reference "AB_6") (unit 1) (value "AM6012") (footprint "Star_Wars_Vector_PCB:DIP20")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cf968ba"
+      (reference "A_1") (unit 1) (value "LS08") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d571bd6"
+      (reference "A_2") (unit 1) (value "LS20") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d0042c4"
+      (reference "A_2") (unit 2) (value "LS20") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4b277d"
+      (reference "A_3") (unit 1) (value "LS00") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfe2e49"
+      (reference "A_3") (unit 2) (value "LS00") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d002cce"
+      (reference "A_3") (unit 3) (value "LS00") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce52929"
+      (reference "A_3") (unit 4) (value "LS00") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d3ecac2"
+      (reference "A_4") (unit 1) (value "LS157B") (footprint "Star_Wars_Vector_PCB:DIP16")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d461d37"
+      (reference "A_5") (unit 1) (value "LS194") (footprint "Star_Wars_Vector_PCB:DIP16")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cf83112"
+      (reference "A_7") (unit 1) (value "082") (footprint "Star_Wars_Vector_PCB:DIP8")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cf8269a"
+      (reference "A_7") (unit 2) (value "082") (footprint "Star_Wars_Vector_PCB:DIP8")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfcc70b"
+      (reference "BC_8") (unit 1) (value "082") (footprint "Star_Wars_Vector_PCB:DIP8")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfb9b1f"
+      (reference "BC_8") (unit 2) (value "082") (footprint "Star_Wars_Vector_PCB:DIP8")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfe1157"
+      (reference "BC_9") (unit 1) (value "082") (footprint "Star_Wars_Vector_PCB:DIP8")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfe10e2"
+      (reference "BC_9") (unit 2) (value "082") (footprint "Star_Wars_Vector_PCB:DIP8")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d07732e"
+      (reference "BLUE1") (unit 1) (value "TP") (footprint "Star_Wars_Vector_PCB:TEST_POINT")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4a8b40"
+      (reference "B_1") (unit 1) (value "LS161") (footprint "Star_Wars_Vector_PCB:DIP16")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4a8e03"
+      (reference "B_2") (unit 1) (value "LS161") (footprint "Star_Wars_Vector_PCB:DIP16")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d55a786"
+      (reference "B_3") (unit 1) (value "LS174A") (footprint "Star_Wars_Vector_PCB:DIP16")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4f0e8a"
+      (reference "B_4") (unit 1) (value "S129") (footprint "Star_Wars_Vector_PCB:DIP16")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d461a5e"
+      (reference "B_5") (unit 1) (value "LS194") (footprint "Star_Wars_Vector_PCB:DIP16")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfa1058"
+      (reference "B_7") (unit 1) (value "LF13201") (footprint "Star_Wars_Vector_PCB:DIP16")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d3ddae7"
+      (reference "B_7") (unit 2) (value "LF13201") (footprint "Star_Wars_Vector_PCB:DIP16")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cf8ff19"
+      (reference "B_7") (unit 3) (value "LF13201") (footprint "Star_Wars_Vector_PCB:DIP16")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cf9f447"
+      (reference "B_7") (unit 4) (value "LF13201") (footprint "Star_Wars_Vector_PCB:DIP16")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d177659"
+      (reference "C1") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d054364"
+      (reference "C2") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d0498b9"
+      (reference "C3") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d04fb55"
+      (reference "C4") (unit 1) (value ".01uF") (footprint "Star_Wars_Vector_PCB:SmallCap")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d16038c"
+      (reference "C5") (unit 1) (value ".01uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d17aa36"
+      (reference "C6") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d18e862"
+      (reference "C7") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cf84a74"
+      (reference "C8") (unit 1) (value ".047uF") (footprint "Star_Wars_Vector_PCB:CapYellow")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cf85c42"
+      (reference "C9") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cf8c951"
+      (reference "C10") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfb9b26"
+      (reference "C11") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d18d8ef"
+      (reference "C12") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfb9b39"
+      (reference "C14") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d02ed9d"
+      (reference "C17") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d02d5f7"
+      (reference "C18") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfe1008"
+      (reference "C19") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfe0fd5"
+      (reference "C20") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfe0ff0"
+      (reference "C21") (unit 1) (value ".01uF") (footprint "Star_Wars_Vector_PCB:SmallCap")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfe1031"
+      (reference "C25") (unit 1) (value ".047uF") (footprint "Star_Wars_Vector_PCB:CapYellow")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfe1037"
+      (reference "C26") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfe104c"
+      (reference "C27") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfe10e8"
+      (reference "C28") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfe10fb"
+      (reference "C31") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d034e75"
+      (reference "C35") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d034e6f"
+      (reference "C36") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d0c0744"
+      (reference "C37") (unit 1) (value "150pF") (footprint "Star_Wars_Vector_PCB:CapBrown")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d0cb2d5"
+      (reference "C38") (unit 1) (value "39pF") (footprint "Star_Wars_Vector_PCB:CapBrown")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d0a5773"
+      (reference "C39") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d0aa6c4"
+      (reference "C40") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d0b07ca"
+      (reference "C41") (unit 1) (value ".01uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d0d9d2c"
+      (reference "C42") (unit 1) (value "10pF") (footprint "Star_Wars_Vector_PCB:CapBrown")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce2ba03"
+      (reference "C43") (unit 1) (value "100uF") (footprint "Star_Wars_Vector_PCB:LargeCap")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce2ddd0"
+      (reference "C44") (unit 1) (value "100uF") (footprint "Star_Wars_Vector_PCB:LargeCap")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce2dea1"
+      (reference "C45") (unit 1) (value "22uF") (footprint "Star_Wars_Vector_PCB:CapElec2")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce30598"
+      (reference "C46") (unit 1) (value "100uF") (footprint "Star_Wars_Vector_PCB:LargeCap")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d0e4285"
+      (reference "C47") (unit 1) (value "150pF") (footprint "Star_Wars_Vector_PCB:CapBrown")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce3059e"
+      (reference "C48") (unit 1) (value "22uF") (footprint "Star_Wars_Vector_PCB:CapElec2")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce1ecdb"
+      (reference "C50") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce1ed40"
+      (reference "C51") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce1edd9"
+      (reference "C52") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce1eddf"
+      (reference "C53") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce1f0e2"
+      (reference "C54") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce1f0e8"
+      (reference "C55") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce1f0ee"
+      (reference "C56") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce1f0f4"
+      (reference "C57") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce1f1aa"
+      (reference "C58") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce1f1b0"
+      (reference "C59") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce1f6cc"
+      (reference "C60") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce1f6d2"
+      (reference "C61") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce1f6d8"
+      (reference "C62") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce1f6de"
+      (reference "C63") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce1f6e4"
+      (reference "C64") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce1f6ea"
+      (reference "C65") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d0f2df7"
+      (reference "C66") (unit 1) (value "150pF") (footprint "Star_Wars_Vector_PCB:CapBrown")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce1f6f0"
+      (reference "C67") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce1f6f6"
+      (reference "C68") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce1f6fc"
+      (reference "C69") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce1f702"
+      (reference "C70") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce1fc58"
+      (reference "C71") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce1fc5e"
+      (reference "C72") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce1fc64"
+      (reference "C73") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce1fc6a"
+      (reference "C74") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce1fc70"
+      (reference "C75") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce1fc76"
+      (reference "C76") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce1fc7c"
+      (reference "C77") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce1fc82"
+      (reference "C78") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce24151"
+      (reference "C79") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce24157"
+      (reference "C80") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce36814"
+      (reference "C81") (unit 1) (value "100uF") (footprint "Star_Wars_Vector_PCB:LargeCap")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce3faf1"
+      (reference "C82") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d19631b"
+      (reference "C83") (unit 1) (value "22pF") (footprint "Star_Wars_Vector_PCB:CapBrown")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d0d7f51"
+      (reference "CR1") (unit 1) (value "1N914") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce2bc79"
+      (reference "CR2") (unit 1) (value "LED") (footprint "Star_Wars_Vector_PCB:LED")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce2df18"
+      (reference "CR3") (unit 1) (value "1N100") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce305a4"
+      (reference "CR4") (unit 1) (value "1N100") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4a8351"
+      (reference "C_1") (unit 1) (value "LS161") (footprint "Star_Wars_Vector_PCB:DIP16")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d57a0f7"
+      (reference "C_2") (unit 3) (value "LS11") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d55bde3"
+      (reference "C_3") (unit 1) (value "LS175_A") (footprint "Star_Wars_Vector_PCB:DIP16")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d3ec2d5"
+      (reference "C_4") (unit 1) (value "LS157A") (footprint "Star_Wars_Vector_PCB:DIP16")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d46176f"
+      (reference "C_5") (unit 1) (value "LS194") (footprint "Star_Wars_Vector_PCB:DIP16")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4a809a"
+      (reference "D_1") (unit 1) (value "LS161") (footprint "Star_Wars_Vector_PCB:DIP16")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cf4f5cc"
+      (reference "D_2") (unit 1) (value "LS74") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cf4839c"
+      (reference "D_2") (unit 2) (value "LS74") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d558ffd"
+      (reference "D_3") (unit 1) (value "LS42") (footprint "Star_Wars_Vector_PCB:DIP16")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d58db76"
+      (reference "D_4") (unit 1) (value "LS14") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cecd83b"
+      (reference "D_4") (unit 2) (value "LS14") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cedb6b1"
+      (reference "D_4") (unit 3) (value "LS14") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cede2d9"
+      (reference "D_4") (unit 6) (value "LS14") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d549b8e"
+      (reference "D_6") (unit 1) (value "DAC_8") (footprint "Star_Wars_Vector_PCB:DIP16")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfe1029"
+      (reference "D_7") (unit 1) (value "082") (footprint "Star_Wars_Vector_PCB:DIP8")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfe1023"
+      (reference "D_7") (unit 2) (value "082") (footprint "Star_Wars_Vector_PCB:DIP8")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d49cceb"
+      (reference "E_1") (unit 1) (value "LS02") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cf5faec"
+      (reference "E_1") (unit 4) (value "LS02") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cf823db"
+      (reference "E_2") (unit 1) (value "LS32") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cf221c2"
+      (reference "E_2") (unit 3) (value "LS32") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cf737ef"
+      (reference "E_2") (unit 4) (value "LS32") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfa68b1"
+      (reference "E_3") (unit 1) (value "LS02") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cf476b0"
+      (reference "E_3") (unit 2) (value "LS02") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cf47857"
+      (reference "E_3") (unit 3) (value "LS02") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfa5d6b"
+      (reference "E_3") (unit 4) (value "LS02") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d58ca21"
+      (reference "E_4") (unit 1) (value "LS00") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cecd128"
+      (reference "E_4") (unit 2) (value "LS00") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cedb088"
+      (reference "E_4") (unit 3) (value "LS00") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cede184"
+      (reference "E_4") (unit 4) (value "LS00") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d508343"
+      (reference "E_5") (unit 1) (value "LS273A") (footprint "Star_Wars_Vector_PCB:DIP20")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4fec02"
+      (reference "E_6") (unit 1) (value "AM6012") (footprint "Star_Wars_Vector_PCB:DIP20")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfe108f"
+      (reference "E_7") (unit 1) (value "LF13201") (footprint "Star_Wars_Vector_PCB:DIP16")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d3dd441"
+      (reference "E_7") (unit 2) (value "LF13201") (footprint "Star_Wars_Vector_PCB:DIP16")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfe1095"
+      (reference "E_7") (unit 3) (value "LF13201") (footprint "Star_Wars_Vector_PCB:DIP16")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfe1088"
+      (reference "E_7") (unit 4) (value "LF13201") (footprint "Star_Wars_Vector_PCB:DIP16")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d5913e5"
+      (reference "F_1") (unit 1) (value "LS27") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d582bfd"
+      (reference "F_2") (unit 1) (value "LS109") (footprint "Star_Wars_Vector_PCB:DIP16")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cf7a5e6"
+      (reference "F_2") (unit 2) (value "LS109") (footprint "Star_Wars_Vector_PCB:DIP16")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d54bdfb"
+      (reference "F_3") (unit 1) (value "S260") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d50b82d"
+      (reference "F_4") (unit 1) (value "LS86") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cf13364"
+      (reference "F_4") (unit 3) (value "LS86") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d46255c"
+      (reference "F_5") (unit 1) (value "LS194") (footprint "Star_Wars_Vector_PCB:DIP16")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d57011f"
+      (reference "F_6") (unit 1) (value "LS273B") (footprint "Star_Wars_Vector_PCB:DIP20")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d131d47"
+      (reference "F_8") (unit 1) (value "DAC_8A") (footprint "Star_Wars_Vector_PCB:DIP16")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d1878a9"
+      (reference "F_9") (unit 1) (value "082") (footprint "Star_Wars_Vector_PCB:DIP8")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d18b1f9"
+      (reference "F_9") (unit 2) (value "082") (footprint "Star_Wars_Vector_PCB:DIP8")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d54553d"
+      (reference "GND1") (unit 1) (value "TP") (footprint "Star_Wars_Vector_PCB:TEST_POINT")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d54528a"
+      (reference "GND2") (unit 1) (value "TP") (footprint "Star_Wars_Vector_PCB:TEST_POINT")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d544fd9"
+      (reference "GND3") (unit 1) (value "TP") (footprint "Star_Wars_Vector_PCB:TEST_POINT")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d544d2a"
+      (reference "GND4") (unit 1) (value "TP") (footprint "Star_Wars_Vector_PCB:TEST_POINT")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d0757f8"
+      (reference "GREEN1") (unit 1) (value "TP") (footprint "Star_Wars_Vector_PCB:TEST_POINT")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cf431e8"
+      (reference "HALT1") (unit 1) (value "TP") (footprint "Star_Wars_Vector_PCB:TEST_POINT")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4b3db2"
+      (reference "H_1") (unit 1) (value "LS74") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00006770432d"
+      (reference "H_1") (unit 2) (value "LS74") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d5424b0"
+      (reference "H_2") (unit 1) (value "LS08") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce6e712"
+      (reference "H_2") (unit 2) (value "LS08") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cf82ac7"
+      (reference "H_2") (unit 4) (value "LS08") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d5aafa3"
+      (reference "H_3") (unit 1) (value "LS02") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cf82588"
+      (reference "H_3") (unit 3) (value "LS02") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfcca08"
+      (reference "H_3") (unit 4) (value "LS02") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d58f832"
+      (reference "H_4") (unit 1) (value "LS175") (footprint "Star_Wars_Vector_PCB:DIP16")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d462825"
+      (reference "H_5") (unit 1) (value "LS194") (footprint "Star_Wars_Vector_PCB:DIP16")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d462b00"
+      (reference "H_6") (unit 1) (value "LS194") (footprint "Star_Wars_Vector_PCB:DIP16")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d31cb6c"
+      (reference "J17") (unit 1) (value "Main_Connector") (footprint "Star_Wars_Vector_PCB:J17")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-000061ab9d20"
+      (reference "J20") (unit 1) (value "Edge_Connector_30_Pin") (footprint "Star_Wars_Vector_PCB:J20")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d575645"
+      (reference "J_2") (unit 1) (value "AVG") (footprint "Star_Wars_Vector_PCB:DDIP40")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d3cb006"
+      (reference "J_3") (unit 1) (value "Spare7") (footprint "Star_Wars_Vector_PCB:DIP18")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d3cbac6"
+      (reference "J_4") (unit 1) (value "Spare9") (footprint "Star_Wars_Vector_PCB:DIP18")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d57eea7"
+      (reference "J_5") (unit 1) (value "LS32") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ceead93"
+      (reference "J_5") (unit 2) (value "LS32") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfb3a42"
+      (reference "J_5") (unit 3) (value "LS32") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfb41c6"
+      (reference "J_5") (unit 4) (value "LS32") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d53d9b4"
+      (reference "J_6") (unit 1) (value "LS10") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cf18a2d"
+      (reference "J_6") (unit 3) (value "LS10") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d54da4d"
+      (reference "K_1") (unit 1) (value "LS245") (footprint "Star_Wars_Vector_PCB:DIP20")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce6caff"
+      (reference "K_2") (unit 1) (value "LS42") (footprint "Star_Wars_Vector_PCB:DIP16")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d3cad2d"
+      (reference "K_3") (unit 1) (value "Spare6") (footprint "Star_Wars_Vector_PCB:DIP18")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d3cb2c7"
+      (reference "K_4") (unit 1) (value "Spare8") (footprint "Star_Wars_Vector_PCB:DIP18")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d5ae98a"
+      (reference "K_5") (unit 1) (value "LS74") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cf0d063"
+      (reference "K_5") (unit 2) (value "LS74") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d56a104"
+      (reference "K_6") (unit 1) (value "LS04") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d1835e8"
+      (reference "K_6") (unit 3) (value "LS04") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cf3bdf0"
+      (reference "K_6") (unit 4) (value "LS04") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfa738d"
+      (reference "K_6") (unit 6) (value "LS04") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d061f28"
+      (reference "L1") (unit 1) (value "1uH") (footprint "Star_Wars_Vector_PCB:Inductor1")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d064a80"
+      (reference "L2") (unit 1) (value "1uH") (footprint "Star_Wars_Vector_PCB:Inductor1")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d065220"
+      (reference "L3") (unit 1) (value "1uH") (footprint "Star_Wars_Vector_PCB:Inductor1")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d5886b7"
+      (reference "L_1") (unit 1) (value "2732_A") (footprint "Star_Wars_Vector_PCB:DDIP24")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d3aed07"
+      (reference "L_2") (unit 1) (value "Spare5") (footprint "Star_Wars_Vector_PCB:DIP16")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d479720"
+      (reference "L_3") (unit 1) (value "137211-001") (footprint "Star_Wars_Vector_PCB:DDIP24")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d47a5e5"
+      (reference "L_4") (unit 1) (value "137211-001") (footprint "Star_Wars_Vector_PCB:DDIP24")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d49b12d"
+      (reference "L_5") (unit 1) (value "LS175C") (footprint "Star_Wars_Vector_PCB:DIP16")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d40ae09"
+      (reference "L_6") (unit 1) (value "LS175B") (footprint "Star_Wars_Vector_PCB:DIP16")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d552a41"
+      (reference "L_8") (unit 1) (value "74LS07") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d00beb9"
+      (reference "L_8") (unit 2) (value "74LS07") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d00c09e"
+      (reference "L_8") (unit 3) (value "74LS07") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d00c285"
+      (reference "L_8") (unit 4) (value "74LS07") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d00c46e"
+      (reference "L_8") (unit 5) (value "74LS07") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d00c681"
+      (reference "L_8") (unit 6) (value "74LS07") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce75e4e"
+      (reference "M_1") (unit 1) (value "LS244_B") (footprint "Star_Wars_Vector_PCB:DIP20")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d554329"
+      (reference "M_2") (unit 1) (value "LS244_B") (footprint "Star_Wars_Vector_PCB:DIP20")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4799e3"
+      (reference "M_3") (unit 1) (value "137211-001") (footprint "Star_Wars_Vector_PCB:DDIP24")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d47ade4"
+      (reference "M_4") (unit 1) (value "137211-001") (footprint "Star_Wars_Vector_PCB:DDIP24")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d14b7cd"
+      (reference "M_5") (unit 1) (value "LS175_A") (footprint "Star_Wars_Vector_PCB:DIP16")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d56e51a"
+      (reference "M_6") (unit 1) (value "LS191A") (footprint "Star_Wars_Vector_PCB:DIP16")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d4f5f2c"
+      (reference "M_8") (unit 1) (value "LS02") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d04d032"
+      (reference "M_8") (unit 3) (value "LS02") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d511182"
+      (reference "N_1") (unit 1) (value "LS244_A") (footprint "Star_Wars_Vector_PCB:DIP20")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d577728"
+      (reference "N_2") (unit 1) (value "LS244_C") (footprint "Star_Wars_Vector_PCB:DIP20")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d56b737"
+      (reference "N_8") (unit 1) (value "LS164") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d56ceda"
+      (reference "P_1") (unit 1) (value "LS244") (footprint "Star_Wars_Vector_PCB:DIP20")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d3af3ac"
+      (reference "P_2") (unit 1) (value "Spare4") (footprint "Star_Wars_Vector_PCB:DIP16")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d47a316"
+      (reference "P_3") (unit 1) (value "137211-001") (footprint "Star_Wars_Vector_PCB:DDIP24")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d47b34b"
+      (reference "P_4") (unit 1) (value "137211-001") (footprint "Star_Wars_Vector_PCB:DDIP24")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce5c19d"
+      (reference "P_5") (unit 1) (value "LS04") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce7d26a"
+      (reference "P_5") (unit 2) (value "LS04") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce52b02"
+      (reference "P_5") (unit 3) (value "LS04") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce95064"
+      (reference "P_5") (unit 4) (value "LS04") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfa6622"
+      (reference "P_5") (unit 6) (value "LS04") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d3afbc9"
+      (reference "P_6") (unit 1) (value "Spare10") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d3ae76c"
+      (reference "P_8") (unit 1) (value "Spare1") (footprint "Star_Wars_Vector_PCB:DIP16")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d044302"
+      (reference "Q1") (unit 1) (value "2N3904") (footprint "Star_Wars_Vector_PCB:GenericTrans")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d02d3b4"
+      (reference "Q4") (unit 1) (value "2N3904") (footprint "Star_Wars_Vector_PCB:GenericTrans")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d02dc85"
+      (reference "Q5") (unit 1) (value "2N3904") (footprint "Star_Wars_Vector_PCB:GenericTrans")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d02e07b"
+      (reference "Q6") (unit 1) (value "2N3904") (footprint "Star_Wars_Vector_PCB:GenericTrans")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d0bd8b0"
+      (reference "Q7") (unit 1) (value "2N3904") (footprint "Star_Wars_Vector_PCB:GenericTrans")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d0bebf8"
+      (reference "Q8") (unit 1) (value "2N3906") (footprint "Star_Wars_Vector_PCB:GenericTrans")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce7d8b1"
+      (reference "R1") (unit 1) (value "10K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce654e0"
+      (reference "R2") (unit 1) (value "10K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce64ec4"
+      (reference "R3") (unit 1) (value "10K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce651f5"
+      (reference "R4") (unit 1) (value "10K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce6537f"
+      (reference "R5") (unit 1) (value "10K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce65385"
+      (reference "R6") (unit 1) (value "10K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce654ce"
+      (reference "R7") (unit 1) (value "10K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce654d4"
+      (reference "R8") (unit 1) (value "10K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce654da"
+      (reference "R9") (unit 1) (value "10K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cf3c362"
+      (reference "R10") (unit 1) (value "10K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d166ac6"
+      (reference "R11") (unit 1) (value "12K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d167e72"
+      (reference "R12") (unit 1) (value "24K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d16822f"
+      (reference "R13") (unit 1) (value "47K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d15d38a"
+      (reference "R14") (unit 1) (value "820") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d195c96"
+      (reference "R15") (unit 1) (value "100K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d19588e"
+      (reference "R16") (unit 1) (value "12K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d17f85c"
+      (reference "R17") (unit 1) (value "6.2K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d03302c"
+      (reference "R20") (unit 1) (value "470") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d042590"
+      (reference "R21") (unit 1) (value "470") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d042c8c"
+      (reference "R22") (unit 1) (value "470") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d037168"
+      (reference "R23") (unit 1) (value "4.7k") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d038136"
+      (reference "R24") (unit 1) (value "4.7k") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d03862d"
+      (reference "R25") (unit 1) (value "4.7k") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d04e5c9"
+      (reference "R26") (unit 1) (value "820") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d051362"
+      (reference "R27") (unit 1) (value "820") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cf9814b"
+      (reference "R30") (unit 1) (value "7.5K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cf9e549"
+      (reference "R31") (unit 1) (value "7.5K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfbb94b"
+      (reference "R41") (unit 1) (value "10K") (footprint "Star_Wars_Vector_PCB:PotBlue")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfc1198"
+      (reference "R42") (unit 1) (value "150K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfc1fdf"
+      (reference "R43") (unit 1) (value "2.7K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfb5511"
+      (reference "R44") (unit 1) (value "10K") (footprint "Star_Wars_Vector_PCB:PotBlue")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfb7350"
+      (reference "R45") (unit 1) (value "6.8K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfc4813"
+      (reference "R46") (unit 1) (value "22K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfc929d"
+      (reference "R47") (unit 1) (value "2K") (footprint "Star_Wars_Vector_PCB:PotBlk")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfd4d21"
+      (reference "R51") (unit 1) (value "100") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfe0fea"
+      (reference "R54") (unit 1) (value "820") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfe0ff7"
+      (reference "R55") (unit 1) (value "820") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfe106a"
+      (reference "R58") (unit 1) (value "7.5K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfe110c"
+      (reference "R68") (unit 1) (value "10K") (footprint "Star_Wars_Vector_PCB:PotBlue")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfe111a"
+      (reference "R69") (unit 1) (value "150K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfe1121"
+      (reference "R70") (unit 1) (value "2.7K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfe10cd"
+      (reference "R71") (unit 1) (value "10K") (footprint "Star_Wars_Vector_PCB:PotBlue")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfe10d4"
+      (reference "R72") (unit 1) (value "6.8K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfe1134"
+      (reference "R73") (unit 1) (value "22K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfe113f"
+      (reference "R74") (unit 1) (value "2K") (footprint "Star_Wars_Vector_PCB:PotBlk")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d0e3a76"
+      (reference "R75") (unit 1) (value "1.30K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d0f2df1"
+      (reference "R76") (unit 1) (value "1.30K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfe116c"
+      (reference "R78") (unit 1) (value "100") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d0c0d24"
+      (reference "R81") (unit 1) (value "15K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d0c5b12"
+      (reference "R82") (unit 1) (value "1K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d0cb2db"
+      (reference "R83") (unit 1) (value "10K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d0d071e"
+      (reference "R84") (unit 1) (value "560") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d0d3973"
+      (reference "R85") (unit 1) (value "7.5K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d0d3979"
+      (reference "R86") (unit 1) (value "7.5K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d0e36aa"
+      (reference "R87") (unit 1) (value "6.19K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d0e7f35"
+      (reference "R88") (unit 1) (value "200") (footprint "Star_Wars_Vector_PCB:PotBlk")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d0efc2d"
+      (reference "R89") (unit 1) (value "7.5K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d0efff3"
+      (reference "R90") (unit 1) (value "100") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d0f2deb"
+      (reference "R91") (unit 1) (value "6.19K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d0f2e01"
+      (reference "R92") (unit 1) (value "200") (footprint "Star_Wars_Vector_PCB:PotBlk")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d0f2e14"
+      (reference "R93") (unit 1) (value "7.5K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d0f2e1a"
+      (reference "R94") (unit 1) (value "100") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d0b5dcf"
+      (reference "R95") (unit 1) (value "7.5K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d0b65cb"
+      (reference "R96") (unit 1) (value "7.5K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d0b2301"
+      (reference "R97") (unit 1) (value "3.9K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d0920a0"
+      (reference "R98") (unit 1) (value "100K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d0932c8"
+      (reference "R99") (unit 1) (value "100K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d0935fb"
+      (reference "R100") (unit 1) (value "100K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d093b3f"
+      (reference "R101") (unit 1) (value "100K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d09aaf4"
+      (reference "R102") (unit 1) (value "100K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d09aafa"
+      (reference "R103") (unit 1) (value "100K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d09ab00"
+      (reference "R104") (unit 1) (value "100K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d09ab06"
+      (reference "R105") (unit 1) (value "100K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfe107c"
+      (reference "R106") (unit 1) (value "7.5K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce2bb4c"
+      (reference "R107") (unit 1) (value "150") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce2a801"
+      (reference "R109") (unit 1) (value "1K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce2a8bc"
+      (reference "R110") (unit 1) (value "1K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce2a929"
+      (reference "R111") (unit 1) (value "1K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfad460"
+      (reference "R112") (unit 1) (value "10K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfe10b2"
+      (reference "R113") (unit 1) (value "10K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d062634"
+      (reference "R114") (unit 1) (value "100") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d064a86"
+      (reference "R115") (unit 1) (value "100") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d065226"
+      (reference "R116") (unit 1) (value "100") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d044c19"
+      (reference "R117") (unit 1) (value "10K") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d0693c7"
+      (reference "RED1") (unit 1) (value "TP") (footprint "Star_Wars_Vector_PCB:TEST_POINT")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfca5f9"
+      (reference "RV1") (unit 1) (value "VDR") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfe1148"
+      (reference "RV2") (unit 1) (value "VDR") (footprint "Star_Wars_Vector_PCB:GenericComp")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce53c4d"
+      (reference "SACLK1") (unit 1) (value "TP") (footprint "Star_Wars_Vector_PCB:TEST_POINT")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-0000601fc963"
+      (reference "SAEN1") (unit 1) (value "TP") (footprint "Star_Wars_Vector_PCB:TEST_POINT")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00006629c633"
+      (reference "SP1") (unit 1) (value "Split_Pad") (footprint "Star_Wars_Vector_PCB:SplitPad")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-000066292781"
+      (reference "SP2") (unit 1) (value "Split_Pad") (footprint "Star_Wars_Vector_PCB:SplitPad")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-0000643a76b1"
+      (reference "VCTR1") (unit 1) (value "TP") (footprint "Star_Wars_Vector_PCB:TEST_POINT")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d50db7a"
+      (reference "VR1") (unit 1) (value "L7815_") (footprint "Star_Wars_Vector_PCB:VoltReg")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d50de2f"
+      (reference "VR2") (unit 1) (value "L7915_") (footprint "Star_Wars_Vector_PCB:VoltReg")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfd1400"
+      (reference "XOUT1") (unit 1) (value "TP") (footprint "Star_Wars_Vector_PCB:TEST_POINT")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfe1164"
+      (reference "YOUT1") (unit 1) (value "TP") (footprint "Star_Wars_Vector_PCB:TEST_POINT")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005d055253"
+      (reference "ZREF1") (unit 1) (value "TP") (footprint "Star_Wars_Vector_PCB:TEST_POINT")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfa840b"
+      (reference "~INVERTX1") (unit 1) (value "TP") (footprint "Star_Wars_Vector_PCB:TEST_POINT")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cfe10a6"
+      (reference "~INVERTY1") (unit 1) (value "TP") (footprint "Star_Wars_Vector_PCB:TEST_POINT")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005cf3c20d"
+      (reference "~SA1") (unit 1) (value "TP") (footprint "Star_Wars_Vector_PCB:TEST_POINT")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ce4f7f1"
+      (reference "~VMEM1") (unit 1) (value "TP") (footprint "Star_Wars_Vector_PCB:TEST_POINT")
+    )
+    (path "/00000000-0000-0000-0000-00005cdf67eb/00000000-0000-0000-0000-00005ceb3d8b"
+      (reference "~VROM1") (unit 1) (value "TP") (footprint "Star_Wars_Vector_PCB:TEST_POINT")
+    )
+  )
+)

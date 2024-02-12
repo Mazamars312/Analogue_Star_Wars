@@ -1,0 +1,30 @@
+graph: { title: "main.cpp"
+node: { title: "_Z4initv" label: "void init()\nmain.cpp:41:6" }
+node: { title: "_Z8SetTimerv" label: "void SetTimer()\n/mnt/f/Analogue/Analogue_Star_Wars/src/MPUBIOS/arch/riscv/timer.h:50:6" shape : ellipse }
+edge: { sourcename: "_Z4initv" targetname: "_Z8SetTimerv" label: "main.cpp:48:10" }
+node: { title: "SetUART" label: "void SetUART()\n/mnt/f/Analogue/Analogue_Star_Wars/src/MPUBIOS/drivers/uart/uart.h:45:6" shape : ellipse }
+edge: { sourcename: "_Z4initv" targetname: "SetUART" label: "main.cpp:49:9" }
+node: { title: "_Z10ResetTimerv" label: "void ResetTimer()\n/mnt/f/Analogue/Analogue_Star_Wars/src/MPUBIOS/arch/riscv/timer.h:49:6" shape : ellipse }
+edge: { sourcename: "_Z4initv" targetname: "_Z10ResetTimerv" label: "main.cpp:50:12" }
+node: { title: "_Z10riscusleepi" label: "void riscusleep(int)\n/mnt/f/Analogue/Analogue_Star_Wars/src/MPUBIOS/arch/riscv/timer.h:51:6" shape : ellipse }
+edge: { sourcename: "_Z4initv" targetname: "_Z10riscusleepi" label: "main.cpp:51:12" }
+node: { title: "riscprintf_" label: ")\n/mnt/f/Analogue/Analogue_Star_Wars/src/MPUBIOS/arch/riscv/riscprintf.h:71:5" shape : ellipse }
+edge: { sourcename: "_Z4initv" targetname: "riscprintf_" label: "main.cpp:52:12" }
+node: { title: "_Z8mainloopv" label: "void mainloop()\nmain.cpp:58:6" }
+edge: { sourcename: "_Z8mainloopv" targetname: "riscprintf_" label: "main.cpp:60:12" }
+edge: { sourcename: "_Z8mainloopv" targetname: "riscprintf_" label: "main.cpp:61:12" }
+edge: { sourcename: "_Z8mainloopv" targetname: "riscprintf_" label: "main.cpp:62:12" }
+edge: { sourcename: "_Z8mainloopv" targetname: "riscprintf_" label: "main.cpp:63:12" }
+edge: { sourcename: "_Z8mainloopv" targetname: "riscprintf_" label: "main.cpp:64:12" }
+node: { title: "clearpixel" label: "void clearpixel()\nvideo.h:11:6" shape : ellipse }
+edge: { sourcename: "_Z8mainloopv" targetname: "clearpixel" label: "main.cpp:68:12" }
+node: { title: "vg_set_halt" label: "void vg_set_halt(int)\nvideo.h:9:6" shape : ellipse }
+edge: { sourcename: "_Z8mainloopv" targetname: "vg_set_halt" label: "main.cpp:69:13" }
+node: { title: "video_start" label: "void video_start()\nvideo.h:7:6" shape : ellipse }
+edge: { sourcename: "_Z8mainloopv" targetname: "video_start" label: "main.cpp:70:13" }
+node: { title: "main" label: "int main()\nmain.cpp:76:5" }
+edge: { sourcename: "main" targetname: "_Z4initv" label: "main.cpp:79:6" }
+edge: { sourcename: "main" targetname: "_Z10riscusleepi" label: "main.cpp:80:12" }
+edge: { sourcename: "main" targetname: "_Z8mainloopv" label: "main.cpp:81:10" }
+node: { title: "_Z11irqCallbackv" label: "void irqCallback()\nmain.cpp:86:6" }
+}
